@@ -1,11 +1,11 @@
 Olá, eu sou o Lucas e Bem Vindo ao meu perfil!
 
-Eu sou um estudante de programação e pretende trabalhar na área de Back-End.
+Eu sou um estudante de programação e pretendo trabalhar na área de Dev Back-End.
 
 
 <div>
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Castruu&show_icons=true&theme=dracula&count_private=true">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Castruu&layout=compact&theme=dracula">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=DWlucas&show_icons=true&theme=dracula&count_private=true">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?DWlucas=Castruu&layout=compact&theme=dracula">
 </div>
 
 <div style="display: inline_block"><br>

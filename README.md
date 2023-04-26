@@ -1,4 +1,4 @@
-Hiii, eu sou Lucas Willen
+Hiii! eu sou Lucas Willen
 
 <!--
 **DWlucas/DWlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

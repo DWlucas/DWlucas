@@ -1,6 +1,6 @@
-### Olá, eu sou o Lucas e Bem Vindo ao meu perfil!
+### Welcome to my profile!!
 
-Eu sou um estudante de programação e pretendo trabalhar na área de Dev Back-End.
+Eu o Lucas, um estudante de programação querendo trabalhar como Full Stack Developer.
 
 
 <div>

@@ -5,7 +5,7 @@ Eu sou um estudante de programação e pretendo trabalhar na área de Dev Back-E
 
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=DWlucas&show_icons=true&theme=dracula&count_private=true">
-    <img height="150em" width="470" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=DWlucas&layout=compact&theme=dracula">
+    <img height="150em" width="460" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=DWlucas&layout=compact&theme=dracula">
 </div>
 
 <div style="display: inline_block"><br>

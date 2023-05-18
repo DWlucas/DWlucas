@@ -5,7 +5,7 @@ Eu sou o Lucas, um estudante de programação querendo trabalhar como Full Stack
 
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=DWlucas&show_icons=true&theme=dracula&count_private=true">
-    <img height="150em" width="461" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=DWlucas&layout=compact&theme=dracula">
+     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=DWlucas&layout=compact&theme=dracula">
 </div>
 
 <div style="display: inline_block"><br>

@@ -1,6 +1,6 @@
 ### Welcome to my profile!!
 
-Eu sou o Lucas, um estudante de programação querendo trabalhar como Full Stack Developer.
+Eu sou o Lucas!
 
 
 <div>

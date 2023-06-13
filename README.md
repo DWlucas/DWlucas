@@ -1,6 +1,6 @@
 ### Welcome to my profile!!
 
-Eu sou o Lucas!
+Olá eu sou o Lucas!
 
 
 <div>
